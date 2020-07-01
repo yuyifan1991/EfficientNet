@@ -1,0 +1,5 @@
+{
+  "model_path":"./model",
+  "label_path":"label.txt",
+  "pth_path": "efficientnet-b0.pth"
+}
