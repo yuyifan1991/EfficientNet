@@ -8,5 +8,17 @@ Install requirement
 (3)python version >=3.6
 
 
-How to train youe owe data
+How to train your owe data
+
+(1)Pepare your data, make the directory list as:
+   /your foldername
+   --train
+     --picture1
+     --picture2
+     -- ...
+   --test
+     --picture1
+     --picture2
+     -- ...
+   --model
 
