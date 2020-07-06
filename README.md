@@ -18,5 +18,5 @@
 >>      * --model  
   
 >>(2) Run the ***train.py*** file  
->>     $ python train.py
+>>>   $ python train.py
 
