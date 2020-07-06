@@ -6,7 +6,7 @@
 
 >**How to train your owe data**   
 >>(1)Pepare your data, make the directory list as:
->>   * /your foldername  
+>>   * ***/your foldername  
 >>       * --train  
 >>         * --picture1  
 >>         * --picture2  
