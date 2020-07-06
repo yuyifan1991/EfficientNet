@@ -7,13 +7,13 @@ Install requirement
 How to train your owe data  
 (1)Pepare your data, make the directory list as:  
    * /your foldername  
-       + --train  
-         - --picture1  
-         - --picture2  
-         - -- ...  
-       + --test  
-         - --picture1  
-         - --picture2  
-         - -- ...  
-       + --model  
+       * --train  
+         * --picture1  
+         * --picture2  
+         * -- ...  
+       * --test  
+         * --picture1  
+         * --picture2  
+         * -- ...  
+       * --model  
 
