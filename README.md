@@ -20,7 +20,7 @@
 >>(2) Run the ***train.py*** file  
 >>>   $ python train.py  
   
->The weight model will be saved in /mode/xxx  
+>The weight model will be saved in ***/your foldername/train/mode/xxx***  
   
 >**How to test picture in batch***  
 >>Run the ***test.py*** file  
