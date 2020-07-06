@@ -15,7 +15,7 @@
 >>         * --picture1  
 >>         * --picture2  
 >>         * -- ...  
->>      * --model
->>(2) Run the ***train.py*** file  
+>>      * --model  
+>(2) Run the ***train.py*** file  
 >>     $ python train.py
 
