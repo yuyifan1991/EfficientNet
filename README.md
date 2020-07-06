@@ -11,11 +11,11 @@
 >>         * ***--picture1***  
 >>         * ***--picture2***  
 >>         * ***-- ...***  
->>       * --test  
->>         * --picture1  
->>         * --picture2  
->>         * -- ...  
->>      * --model  
+>>       * ***--test***  
+>>         * ***--picture1***  
+>>         * ***--picture2***  
+>>         * ***-- ...***  
+>>      * ***--model***  
   
 >>(2) Run the ***train.py*** file  
 >>>   $ python train.py  
