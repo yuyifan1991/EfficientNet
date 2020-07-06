@@ -19,14 +19,14 @@
   
 >>(2) Run the ***train.py*** file  
 >>>   $ python train.py  
->>The weight model will be saved in /mode/xxx  
   
->**How to test picture***  
->Test in batch  
+>The weight model will be saved in /mode/xxx  
+  
+>**How to test picture in batch***  
 >>Run the ***test.py*** file  
 >>> $python test.py  
   
->Test in single  
+>**How to test picture in single*** 
 >>Run the ***test-single.py*** file  
 >>> $python test-single  
 
