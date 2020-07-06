@@ -11,9 +11,9 @@ How to train your owe data
          - --picture1  
          - --picture2  
          - -- ...  
-   --test  
-     --picture1  
-     --picture2  
-     -- ...  
-   --model  gj
+       + --test  
+         - --picture1  
+         - --picture2  
+         - -- ...  
+       + --model  
 
