@@ -18,5 +18,16 @@
 >>      * --model  
   
 >>(2) Run the ***train.py*** file  
->>>   $ python train.py
+>>>   $ python train.py  
+>>The weight model will be saved in /mode/xxx  
+  
+>**How to test picture***  
+>Test in batch  
+>>Run the ***test.py*** file  
+>>> $python test.py  
+  
+>Test in single  
+>>Run the ***test-single.py*** file  
+>>> $python test-single  
+
 
