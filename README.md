@@ -29,5 +29,8 @@
 >**How to test picture in single*** 
 >>Run the ***test-single.py*** file  
 >>> $python test-single  
+  
+>If you want make a API, you can reference the file ***jjk.py***  
+
 
 
